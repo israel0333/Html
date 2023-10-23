@@ -1,0 +1,66 @@
+footer{
+    background-color:#eeeeee;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+main{
+    background-color: #b21a1a;
+}
+header{
+    background-color: rgb(186, 184, 169);
+    padding-bottom: 2px;
+}
+h1{
+    text-align: center;
+}
+.sam{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.wee{
+    line-break: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-break: loose;
+    
+}
+h2{
+    border-bottom: 1px;
+    padding: 2px;
+    padding-right: 2px solid #2F5A78;
+    font-size: 30px;
+    text-decoration: solid;
+    text-decoration: underline;
+    color: rgb(4, 4, 82);
+}
+ul{
+    margin: 0px;
+    list-style-type: square;
+    list-style-position: inside;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 29px;
+}
+#res{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+}
+#skills{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: double;
+}
+.home{
+    font-size: larger;
+    text-decoration: solid;
+    font-weight: 700;   
+}
+body{
+    background-color: rgb(4, 47, 47);
+}
+#copywright{
+    text-align: center;
